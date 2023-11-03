@@ -59,6 +59,23 @@ Now that you have successfully run the app, let's modify it.
 
 You've successfully run and modified your React Native App. :partying_face:
 
+BMI Calculator App
+App Demo
+
+This is a mobile application developed using React Native that allows users to calculate their Body Mass Index (BMI). BMI is a simple metric used to estimate whether an individual's weight is in a healthy range for their height. This app provides an easy and convenient way for users to track their BMI and monitor their health.
+
+Features
+Calculate BMI based on user input for weight and height.
+Provide an interpretation of the calculated BMI, indicating whether it falls within underweight, normal, overweight, or obese categories.
+Save BMI history to track changes over time.
+Support for both metric (kilograms, centimeters) and imperial (pounds, inches) units.
+User-friendly and intuitive interface.
+Technologies Used
+React Native: A popular JavaScript framework for building native mobile applications.
+Redux: State management for handling BMI history and application-wide data.
+NativeBase: UI components for a responsive and attractive design.
+AsyncStorage: Storing and retrieving user data such as BMI history.
+
 ### Now what?
 
 - If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
